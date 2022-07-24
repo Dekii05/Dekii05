@@ -1,14 +1,10 @@
-<h1 align="center">Hello 👋, I'm Hideki</h1>
-<h3 align="center">A Java learner from Japan</h3>
-
-- 🔭 I’m currently working on [Avalon](https://discord.gg/DmAgJCnpab)
-
-- 🌱 I’m currently learning **Java**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h1> Ey! I'm Hideki <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?color=%FFFFFF&size=25&center=true&vCenter=true&width=433&height=75&lines=A+beginner+Java+Developer;%40Dekii05">
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+<br>
+<p align='center'>
+<img src="https://media.giphy.com/media/O51MQ3DduOcGW6ofR3/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
+<h2> </h2>
