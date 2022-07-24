@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Hideki</h1>
 <h3 align="center">A Java learner from Japan</h3>
 
-- 🔭 I’m currently working on [Avalon Setup's](https://discord.gg/DmAgJCnpab)
+- 🔭 I’m currently working on [Avalon](https://discord.gg/DmAgJCnpab)
 
 - 🌱 I’m currently learning **Java**
 
